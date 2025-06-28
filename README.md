@@ -7,7 +7,7 @@ A sleek, neon-themed web application that lets users calculate their weight on d
 ## 🚀 Live Demo
 
 👉https://our-weight-on-other-planets.onrender.com
-*(Replace with your actual GitHub Pages link once deployed)*
+
 
 ---
 
