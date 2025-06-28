@@ -8,20 +8,22 @@ function calculateWeight() {
     return;
   }
 
-  // Actual gravity values in m/s²
-  const gravity = {
+
+const gravity = {
     Mercury: 3.7,
     Venus: 8.87,
-    Earth: 9.81,
-    Mars: 3.71,
+    Earth: 9.807,
+    Moon:1.62,
+    Mars: 3.73,
     Jupiter: 24.79,
     Saturn: 10.44,
     Uranus: 8.69,
     Neptune: 11.15,
-    Pluto: 0.62
+    Pluto: 0.62,
   };
 
-  // More precise calculation using real gravity
+
+
   const newWeight = (weight * gravity[planet] / gravity["Earth"]).toFixed(2);
   result.textContent = `⚖️ Your weight on ${planet} is ${newWeight} kg.`;
 }
