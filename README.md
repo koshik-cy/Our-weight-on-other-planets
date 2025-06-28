@@ -6,7 +6,7 @@ A sleek, neon-themed web application that lets users calculate their weight on d
 
 ## 🚀 Live Demo
 
-👉 [View it on GitHub Pages](https://your-username.github.io/planet-weight-calculator/)  
+👉[ [View it on GitHub Pages](https://your-username.github.io/planet-weight-calculator/)  ](https://our-weight-on-other-planets.onrender.com
 *(Replace with your actual GitHub Pages link once deployed)*
 
 ---
